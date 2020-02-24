@@ -13,6 +13,7 @@ import StoryTeller from "./story-teller/story-teller.js";
 
 function load() {
   const storyTellerInstance = new StoryTeller();
+  storyTellerInstance.append(document.body); // It doesn't need to be the body
   storyTellerInstance.load("url/to/story-file.json");
 }
 
