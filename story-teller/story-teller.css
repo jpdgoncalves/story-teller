@@ -3,23 +3,14 @@
 }
 
 div.story-teller {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    background-color: violet;
+    background-color: #222222;
 }
 
 div.story-teller div.story-teller-background {
-    position: absolute;
-    width: 100%;
-    height: 100%;
     background-color: #222222;
 }
 
 div.story-teller div.story-teller-text {
-    position: absolute;
-    width: 100%;
-    height: 100%;
     background-color: rgba(0, 0, 0, 0.3);
 }
 
