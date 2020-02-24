@@ -1,4 +1,6 @@
 # Story Teller
+## Description
+A component that can be used in a website as a creative way to introduce someone to a story (the backstory of a game for example).
 ## How to use
 - Download the zip file or clone this repository and extract the folder **story-teller** into your app directory
 - Load the **story-teller/story-teller.css** file into the html file where you want the component to be at.
