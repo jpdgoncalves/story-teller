@@ -1,0 +1,23 @@
+[
+    {
+        "bgImageUrl": "img/background.png",
+        "audioUrl": "audio/1-09 Happy Towns.mp3",
+        "paragraphs": [
+            "This is a story of elves and wolves."
+        ]
+    },
+    {
+        "bgImageUrl": "img/background.png",
+        "audioUrl": "audio/3-15 Enemy Appearance.mp3",
+        "paragraphs": [
+            "A war started between them that has slaughtered thousands."
+        ]
+    },
+    {
+        "bgImageUrl": "img/background.png",
+        "audioUrl": "audio/1-09 Happy Towns.mp3",
+        "paragraphs": [
+            "To end the war a fragile peace treaty was signed. But it didn't last long."
+        ]
+    }
+]
